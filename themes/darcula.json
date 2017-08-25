@@ -344,7 +344,8 @@
         "entity.name.type.class.php",
         "entity.name.type.namespace.php",
         "keyword.operator.key.php",
-        "storage.type.php"
+        "storage.type.php",
+        "support.class.builtin.php"
       ],
       "settings": {
         "foreground": "#A9B7C6"
