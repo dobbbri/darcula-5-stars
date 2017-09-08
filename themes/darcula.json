@@ -105,7 +105,8 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#808080"
+        "foreground": "#808080",
+        "fontStyle": "italic"
       }
     },
     {
@@ -302,19 +303,22 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#6A8759"
+        "foreground": "#6A8759",
+        "fontStyle": "italic"
       }
     },
     {
       "scope": "string.tag",
       "settings": {
-        "foreground": "#6A8759"
+        "foreground": "#6A8759",
+        "fontStyle": "italic"
       }
     },
     {
       "scope": "string.value",
       "settings": {
-        "foreground": "#6A8759"
+        "foreground": "#6A8759",
+        "fontStyle": "italic"
       }
     },
     {
