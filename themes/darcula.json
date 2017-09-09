@@ -75,10 +75,11 @@
     "peekViewResult.background": "#0b1015",
     "peekViewResult.selectionBackground": "#0b1015",
     "peekViewTitle.background": "#0b1015",
-    "peekViewTitleLabel.foreground": "#FFC66D"
+    "peekViewTitleLabel.foreground": "#FFC66D",
+    "diffEditor.insertedTextBackground": "#608b4e",
+    "diffEditor.removedTextBackground": "#FB467B"
   },
-  "tokenColors": [
-    {
+  "tokenColors": [{
       "settings": {
         "foreground": "#A9B7C6",
         "background": "#2b2b2bff"
