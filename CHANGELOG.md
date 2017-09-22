@@ -1,3 +1,6 @@
+### Version 1.0.12
+- add  notification color
+
 ### Version 1.0.11
 - add terminal border and html  entity char color
 
