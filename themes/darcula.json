@@ -66,7 +66,6 @@
     "sideBarSectionHeader.background": "#0b1015",
     "titleBar.inactiveForeground": "#0b1015",
     "titleBar.activeBackground": "#0b1015",
-    "notification.background": "#0b1015",
     "debugToolBar.background": "#0b1015",
     "dropdown.background": "#0b1015",
     "dropdown.border": "#97a7c8ff",
@@ -75,7 +74,18 @@
     "peekViewResult.background": "#0b1015",
     "peekViewResult.selectionBackground": "#0b1015",
     "peekViewTitle.background": "#0b1015",
-    "peekViewTitleLabel.foreground": "#FFC66D"
+    "peekViewTitleLabel.foreground": "#FFC66D",
+    "notification.background": "#18222D",
+    "notification.foreground": "#FFC66D",
+    "notification.buttonBackground": "#5C6370",
+    "notification.buttonForeground": "#eeeeee",
+    "notification.buttonHoverBackground": "#97a7c8",
+    "notification.errorBackground": "#FB467B",
+    "notification.errorForeground": "#eeeeee",
+    "notification.infoBackground": "#608b4e",
+    "notification.infoForeground": "#eeeeee",
+    "notification.warningBackground": "#FFC66D",
+    "notification.warningForeground": "#eeeeee"
   },
   "tokenColors": [{
       "settings": {
