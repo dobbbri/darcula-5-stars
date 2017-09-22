@@ -1,3 +1,6 @@
+### Version 1.0.13
+- fix notification color
+
 ### Version 1.0.12
 - add  notification color
 
