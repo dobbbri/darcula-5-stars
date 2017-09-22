@@ -76,16 +76,16 @@
     "peekViewTitle.background": "#0b1015",
     "peekViewTitleLabel.foreground": "#FFC66D",
     "notification.background": "#18222D",
-    "notification.foreground": "#FFC66D",
+    "notification.foreground": "#eeeeee",
     "notification.buttonBackground": "#5C6370",
-    "notification.buttonForeground": "#eeeeee",
-    "notification.buttonHoverBackground": "#97a7c8",
+    "notification.buttonForeground": "#000000",
+    "notification.buttonHoverBackground": "#FFC66D",
     "notification.errorBackground": "#FB467B",
-    "notification.errorForeground": "#eeeeee",
+    "notification.errorForeground": "#000000",
     "notification.infoBackground": "#608b4e",
     "notification.infoForeground": "#eeeeee",
     "notification.warningBackground": "#FFC66D",
-    "notification.warningForeground": "#eeeeee"
+    "notification.warningForeground": "#000000"
   },
   "tokenColors": [{
       "settings": {
