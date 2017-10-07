@@ -31,9 +31,9 @@
         "path": "./themes/darcula.json"
       },
       {
-        "label": "★ DARCULA - OFFICIAL ★",
+        "label": "★★★★★ DARCULA ★",
         "uiTheme": "vs-dark",
-        "path": "./themes/darcula.json"
+        "path": "./themes/darcula-oficial.json"
       }
     ]
   }
