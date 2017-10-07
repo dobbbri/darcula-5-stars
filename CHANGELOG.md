@@ -1,3 +1,6 @@
+### Version 1.0.20
+- remove shadow transparency
+
 ### Version 1.0.19
 - add new color
 
