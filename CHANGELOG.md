@@ -1,3 +1,6 @@
+### Version 1.0.14
+- add official bg color (HEAD -> master, origin/master, origin/HEAD)
+
 ### Version 1.0.13
 - fix notification color
 
