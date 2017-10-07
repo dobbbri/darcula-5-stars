@@ -1,3 +1,6 @@
+### Version 1.0.17
+- fix shadows
+
 ### Version 1.0.16
 - new color
 
