@@ -2,7 +2,7 @@
   "type": "dark",
   "colors": {
     "focusBorder": "#97a7c8ff",
-    "widget.shadow": "#00000026",
+    "widget.shadow": "#000000",
     "input.background": "#393939",
     "input.border": "#FFC66D",
     "list.activeSelectionBackground": "#393939",
