@@ -1,3 +1,6 @@
+### Version 1.0.16
+- new color
+
 ### Version 1.0.15
 - fix color name (HEAD -> master, origin/master, origin/HEAD)
 
